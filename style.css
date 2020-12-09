@@ -1,0 +1,14 @@
+h1 {
+    background-color: aqua;
+    color: azure;
+  }
+  body {
+    background-image: url("./Assets/Images/bg.png");
+    background-size: contain;
+  }
+  .container {
+    background-color: white;
+    position: fixed;
+    left: 50px;
+    top: 90px;
+    padding: 10px;
